@@ -1,1 +1,26 @@
 
+--------------------
+Angularjs concepts:
+--------------------
+
+0. creating project with ng new proect-name /* todo App */
+
+
+1. creating components 
+ng g c component-name
+ng generate componenet component-name
+
+2. Component 
+Component have css,html and typescript file
+
+
+3. Databinding ,String Interploation and Property binding and event binding
+
+4. Two way binding
+
+5. Passing Data with Event binding:
+
+
+6. NgIf , Ngfor loop else for loop in angularjs
+
+7. 
